@@ -10,6 +10,8 @@ A modern, responsive school website built with HTML, CSS, and JavaScript featuri
 - **Modern UI**: Clean, professional design with gradient backgrounds
 - **Interactive Elements**: Hover effects, button animations, and form handling
 
+## Live 
+- **[3D School Website ](https://haseebjaved4212.github.io/3D-School-Website/)**
 ## Technologies Used
 
 - HTML5 (Semantic markup)
